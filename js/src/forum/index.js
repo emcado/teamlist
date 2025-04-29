@@ -8,7 +8,7 @@ import GroupListItem from '../common/models/GroupListItem';
 
 app.initializers.add('clarkwinkelmann-group-list', () => {
     app.routes['clarkwinkelmann-group-list'] = {
-        path: '/groups',
+        path: '/team',
         component: GroupListPage,
     };
 
