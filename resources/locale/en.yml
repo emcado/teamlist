@@ -1,7 +1,7 @@
 clarkwinkelmann-group-list:
     admin:
         permissions:
-            see: See group list
+            see: See team list
 
         settings:
             showSideNavLink: Show link in side navigation
@@ -12,4 +12,4 @@ clarkwinkelmann-group-list:
             add: Add a group
 
     forum:
-        nav: Group List
+        nav: Team List
